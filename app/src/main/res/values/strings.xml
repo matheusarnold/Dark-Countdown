@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="start">Start</string>
+    <string name="set">Set</string>
+    <string name="reset">Reset</string>
+    <string name="count">00:00</string>
+    <string name="hint">Minutes</string>
+    <string name="pause">Pause</string>
+</resources>
